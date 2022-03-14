@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Xdshadow01
 
-- 📫 How to reach me (idk)
+-
 
 - 💫NOOB
 
