@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shadow</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<img align="right" alt="code" width="200" src="https://telegra.ph/file/5e6ff71c732dd5aea7301.jpg">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xdshadow01&label=Profile%20views&color=0e75b6&style=flat" alt="xdshadow01" /> </p>
 
-- 🌱 I’m currently learning **React, udemy**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **React, JavaScript**
 
